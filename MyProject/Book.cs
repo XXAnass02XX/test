@@ -13,6 +13,8 @@ public class Book
 
     public void PrintInfo()
     {
-        Console.WriteLine($"Title: {Title}, Author: {Author}");
+        Console.WriteLine($"the title is : {Title}, Author: {Author}");
+        Console.WriteLine($"-----------");
+        Console.WriteLine($"+++++++++++");
     }
 }
