@@ -14,5 +14,11 @@ public class Book
     public void PrintInfo()
     {
         Console.WriteLine($"Title: {Title}, Author: {Author}");
+        Console.WriteLine($"feature");
+    }
+
+    public void funcAnass()
+    {
+        Console.WriteLine($"Title: {Title}, Author: {Author}");
     }
 }

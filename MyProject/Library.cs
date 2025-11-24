@@ -17,6 +17,7 @@ public class Library
         foreach (var book in books)
         {
             book.PrintInfo();
+            Console.WriteLine("hhhhhhh");
         }
     }
 }
